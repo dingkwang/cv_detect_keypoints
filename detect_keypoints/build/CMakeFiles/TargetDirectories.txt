@@ -1,3 +1,0 @@
-/home/workspace/detect_keypoints/build/CMakeFiles/rebuild_cache.dir
-/home/workspace/detect_keypoints/build/CMakeFiles/detect_keypoints.dir
-/home/workspace/detect_keypoints/build/CMakeFiles/edit_cache.dir
